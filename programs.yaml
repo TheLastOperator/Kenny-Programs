@@ -1,10 +1,10 @@
 CompViewer:
   /blob/master/CompViewer/CompViewer.lua
   GUI component viewer
-Lua Tutorial:
+Lua_Tutorial:
   /blob/master/Ingame_Lua_Tutorial/LuaTutorial.lua
   Ingame Lua tutorial
-LC Control:
+LC_Control:
   /blob/master/LC_Control/stargate.lua
   GUI stargate controller
 Adventure:
@@ -19,12 +19,12 @@ OPEdit:
 Open Computers Dig:
   /blob/master/OpenComputers/dig.lua
   Dig program included with Open Computers
-Open Computers OpenIRC:
+Open_Computers_OpenIRC:
   /blob/master/OpenComputers/irc.lua
   IRC program included with Open Computers
-OpenLights Control:
+OpenLights_Control:
   /blob/master/OL_Control/OL_Control.lua
   Control program for OpenLights
-Big Reactors Control:
+Big_Reactors_Control:
   /blob/master/BR_Control/BR_Control.lua
   Control program for Big Reactors
